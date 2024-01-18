@@ -1,0 +1,3 @@
+FlashDrive Kingston DataTraveler USB 3.0 64 5
+HardDrive Seagate Backup Plus External HDD 1000 2
+Phone Apple iPhone 12 Smartphone 256 10
